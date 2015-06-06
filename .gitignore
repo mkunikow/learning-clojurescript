@@ -57,3 +57,8 @@ pom.xml.asc
 *.class
 /.lein-*
 /.nrepl-port
+*.log
+.repl-0.0-3169/
+resources/public/js/out
+resources/public/js/averages.js
+/.repl
